@@ -1,0 +1,38 @@
+.DS_Store
+.env
+.flaskenv
+*.pyc
+*.pyo
+env/
+env*
+dist/
+build/
+*.egg
+*.egg-info/
+_mailinglist
+.tox/
+.cache/
+.pytest_cache/
+.idea/
+docs/_build/
+__pycache__
+.env_file
+trust.json
+trust
+aws-auth-patch.yml
+<<<<<<< HEAD
+<<<<<<< HEAD
+aws-auth-patch
+=======
+>>>>>>> b0544efa0d1d96f9163fe73203ef289b7eca0a0c
+=======
+>>>>>>> b0544efa0d1d96f9163fe73203ef289b7eca0a0c
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*,cover
+
+# Direnv
+.envrc
+.direnv
